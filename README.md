@@ -1,4 +1,4 @@
-# PotatoOpenRedirectScanner
+# PythonOpenRedirectScanner
 Created by newbie with simple python
 
 Run:
